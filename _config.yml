@@ -1,4 +1,4 @@
-title: samsecunde.github.io
+title: SamSecunde
 subtitle: Game Developer, Club Treasurer, Computer Enthusiast
 description: >- # this means to ignore newlines until "baseurl:"
   Sam is a computer science major at Stevens Institute of Technology in Hoboken, NJ where he leads fellow game developers as the Treasurer for Stevens Game Development Club.
@@ -10,15 +10,15 @@ baseurl: "" # the subpath of your site, e.g. /blog
 urls:
     - text: Home
       url: /
-    - text: About
+    - text: aboutMe
       url: /about
-    - text: Blog
+    - text: myBlog
       url: /blog
-    - text: Gallery
+    - text: pictureGallery
       url: /gallery
     #- text: Shop
     #  url : /shop
-    - text: Contact
+    - text: contactMe
       url : /contact
 
 
@@ -107,7 +107,7 @@ highlighter: rouge
 permalink: pretty
 
 # Choose what to show ( can be true or false)
-show_author_work_experiences: true
+show_author_work_experiences: false
 show_author_education_details: true
 show_author_project_details: true
 
