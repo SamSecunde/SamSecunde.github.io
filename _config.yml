@@ -52,7 +52,7 @@ author_work_experiences:
 author_education_details:
               - college_logo: SIT.png
                 college_name: "&nbsp;&nbsp;&nbsp;Stevens Institute of Technology"
-                college_url: "&nbsp;&nbsp;&nbsp;https://stevens.edu"
+                college_url: https://stevens.edu
                 college_degree: "&nbsp;&nbsp;&nbsp;Computer Science"
                 description: "&nbsp;&nbsp;&nbsp;Bachelor of Technology"
                 visibility: true
