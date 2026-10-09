@@ -8,17 +8,17 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation
 urls:
-    - text: "       landingPad"
+    - text: "home_page:"
       url: /
-    - text: "  aboutMe"
+    - text: "about_me:"
       url: /about
-    - text: "  myBlog"
+    - text: "my_blog:"
       url: /blog
-    - text: "  pictureGallery"
+    - text: "picture_gallery:"
       url: /gallery
     #- text: Shop
     #  url : /shop
-    - text: contactMe
+    - text: "contact_me:"
       url : /contact
 
 
