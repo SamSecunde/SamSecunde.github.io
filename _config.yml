@@ -40,13 +40,13 @@ author_work_experiences:
               company_url: https://google.com
               designation: Software Engineer
               description: Worked on various Google Products
-              visibility: true
+              visibility: false
             - company_name: Microsoft
               company_logo: microsoft.png
               company_url: https://microsoft.com
               designation: Azure Developer
               description: Worked on various Azure Cloud Products
-              visibility: true
+              visibility: false
 
 # Education
 author_education_details:
@@ -59,15 +59,15 @@ author_education_details:
 
 # Projects
 author_project_details:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
+              - project_thumbnail:
+                project_title: CyberBomb
+                project_description: previously gamershub.png thumbnail
+                project_url: https://samdev29.itch.io/cyberbomb
                 visibility: true
-              - project_thumbnail: hack4r.PNG
-                project_title: Hack4r
-                project_description: A Platform built for Hackers and Penetration Testers
-                project_url: https://hack4r.com
+              - project_thumbnail:
+                project_title: Overclocked and Loaded
+                project_description:
+                project_url: https://samdev29.itch.io/overclocked-and-loaded
                 visibility: true
 
 # social links
