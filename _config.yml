@@ -51,21 +51,21 @@ author_work_experiences:
 # Education
 author_education_details:
               - college_logo: SIT.png
-                college_name: "&nbsp;&nbsp;&nbsp;Stevens Institute of Technology"
+                college_name: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stevens Institute of Technology"
                 college_url: https://stevens.edu
-                college_degree: "&nbsp;&nbsp;&nbsp;Computer Science"
-                description: "&nbsp;&nbsp;&nbsp;Bachelor of Technology"
+                college_degree: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Computer Science"
+                description: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bachelor of Technology"
                 visibility: true
 
 # Projects
 author_project_details:
               - project_thumbnail:
-                project_title: CyberBomb
+                project_title: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CyberBomb"
                 project_description: previously gamershub.png thumbnail
                 project_url: https://samdev29.itch.io/cyberbomb
                 visibility: true
               - project_thumbnail:
-                project_title: Overclocked and Loaded
+                project_title: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Overclocked and Loaded"
                 project_description:
                 project_url: https://samdev29.itch.io/overclocked-and-loaded
                 visibility: true
