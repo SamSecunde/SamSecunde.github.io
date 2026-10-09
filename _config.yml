@@ -51,10 +51,10 @@ author_work_experiences:
 # Education
 author_education_details:
               - college_logo: SIT.png
-                college_name: Stevens Institute of Technology
-                college_url: https://stevens.edu
-                college_degree: Computer Science
-                description: Bachelor of Technology
+                college_name: "&nbsp;&nbsp;&nbsp;Stevens Institute of Technology"
+                college_url: "&nbsp;&nbsp;&nbsp;https://stevens.edu"
+                college_degree: "&nbsp;&nbsp;&nbsp;Computer Science"
+                description: "&nbsp;&nbsp;&nbsp;Bachelor of Technology"
                 visibility: true
 
 # Projects
